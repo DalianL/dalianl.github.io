@@ -1,2 +1,1 @@
-# dalianl.github.io
-Portfolio repository
+This is a personal portfolio repository.
